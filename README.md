@@ -1,2 +1,2 @@
 # student-portalsystem
-educational software
+ student educational software
